@@ -1,9 +1,9 @@
 {
-    "name": "magento2translations/language_ko_kr",
+    "name": "piotrekkaminski/language_ko_kr",
     "description": "Korean (한국어) Magento2 Language Pack (ko_KR) - Crowdsourced",
     "homepage": "http://magento2translations.github.io/",
     "license": [
-        "OSL-3.0",
+        "OSL-3.0"
     ],
     "authors": [
         {
